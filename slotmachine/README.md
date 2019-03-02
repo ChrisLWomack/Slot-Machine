@@ -1,5 +1,5 @@
 # My Awesome Slot Machine
-A Web Application image Carousel made with HTML, CSS and JQuery!
+A Web Application Slot Machine made with HTML, CSS and JavaScript!
 
 ![alt tag](slotmachinepic.PNG)
 
